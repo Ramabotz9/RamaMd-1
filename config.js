@@ -43,8 +43,8 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.owner = ['6287793236775'] //ur owner number
 global.ownername = "Rama"
-global.ytname = "YT:https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ9" //ur yt chanel name
-global.socialm = "GitHub: Jarot" //ur github or insta name
+global.ytname = "YT:https://youtube.com/channel/UCJNi-zXIsky4nheONnxoY1w" //ur yt chanel name
+global.socialm = "GitHub: Ramaahdy9" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bombdy
@@ -52,7 +52,7 @@ global.botname = "RamaBotz" //ur bot name
 global.websitex = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "𝐑amaBotz Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "𝐑amaBotz"
+global.author = "𝐑ama"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
 global.ownertag = ['6287793236775'] //ur owner tag
